@@ -1,0 +1,18 @@
+{
+  "name": "app",
+  "homepage": "https://github.com/rarescrisan/testrepo",
+  "authors": [
+    "haehanna <hanna92@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
